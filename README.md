@@ -87,7 +87,7 @@ git clone https://github.com/shivaniii12/CreditCard-Acquisition-Funnel-Analysis.
 # 2. Install required libraries
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost shap
 
-# 3. Open Jupyter Notebook
+# 3. Open & Run Jupyter Notebook
 jupyter notebook 01_EDA_Funnel_Analysis.ipynb
 
 ---
